@@ -8,13 +8,14 @@ body, h1, h2, p, a, img {
 
 body {
   font-family: Arial, sans-serif;
-  background-color: #fdff99;
+  background-color: #ffffd6;
 }
 
 header {
-  background-color: #62041b;
+  background-color: #7b1647;
   color: #fff;
-  padding: 20px;
+  padding: 40px;
+  font-family: 'Righteous', sans-serif;
 }
 
 header h1 {
@@ -53,7 +54,7 @@ main {
 
 .game-card a {
   display: inline-block;
-  background-color: #639027;
+  background-color: #101b02;
   color: #fff;
   text-decoration: none;
   padding: 10px 20px;
@@ -62,6 +63,17 @@ main {
 }
 
 .game-card a:hover {
-  background-color: #fdff99;
+  background-color: #5f6011;
   color: #62041b;
+}
+
+footer {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
 }
