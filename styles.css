@@ -46,7 +46,7 @@ main {
 
 .game-card img {
   width: 200px;
-  height: 150px;
+  height: 200px;
   object-fit: cover;
   border-radius: 5px;
   margin-bottom: 10px;
@@ -54,16 +54,17 @@ main {
 
 .game-card a {
   display: inline-block;
-  background-color: #101b02;
+  background-color: #1805e2;
   color: #fff;
   text-decoration: none;
   padding: 10px 20px;
   border-radius: 5px;
   margin-top: 10px;
+  box-shadow: 4px 6px 14px #000000CC;
 }
 
 .game-card a:hover {
-  background-color: #5f6011;
+  background-color: #7070f8;
   color: #ede6e7;
 }
 
