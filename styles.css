@@ -70,9 +70,8 @@ main {
   box-shadow: 4px 6px 14px #000000CC;
 }
 
-.game-card a:hover {
-  background-color: #7070f8;
-  color: #ede6e7;
+a, a:visited, a:hover, a:active {
+  color: #fff;
 }
 
 footer {
