@@ -15,7 +15,7 @@ header {
   background-color: #7b1647;
   color: #fff;
   padding: 40px;
-  font-family: 'Righteous', sans-serif;
+  font-family: 'Acme';
 }
 
 header h1 {
@@ -79,4 +79,9 @@ footer {
   left: 0;
   bottom: 0;
   width: 100%;
+}
+
+.footer p {
+  padding: 40px;
+  font-size: 20px;
 }
